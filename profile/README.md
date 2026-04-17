@@ -7,7 +7,6 @@ I'm FadeMaze, a 14-year old IT ethuanist with the following interests:
 - Linux sysadmin
 - DevOps Junior
 
-Here's my small...
 # FAQ
 
 ## Why is this an organization, and not an account?
