@@ -1,7 +1,7 @@
 # FadeMaze
 heya!! :3
 I'm FadeMaze, a 14-year old IT ethuanist with the following interests:
-- making, modifying and breaking software
+- making, modifying and breaking software (I love Docker and backups)
 - Making websites
 - Making Discord BOTs
 - Linux sysadmin
